@@ -83,7 +83,7 @@ content:
         quote: >
           Allgeier Engineering unterstützt seine Kunden bei der Umsetzung herausfordernder (Entwicklungs­)Projekte in der IT­, Automobil­ und Bahntechnik im Bereich der technisch eingebetteten elektronischen Systeme.
         description: | # this will include new lines to allow paragraphs
-          Software-testing
+          - Software-testing
       - layout: left
         title: digiCOM IT-Solutions GmbH & Co. KG, Sonthofen
         link: https://rentmaxx.com/
@@ -101,15 +101,12 @@ content:
         title: digiCOM IT-Solutions GmbH & Co. KG, Sonthofen
         link: https://rentmaxx.com/
         # link_text: boringcompany.com
-        sub_title: Fachinformatiker für Systemintegration
-        caption: 2020 - 2021
+        sub_title: duale Ausbildung zum Fachinformatiker für Systemintegration
+        caption: 2017 - 2020
         quote: >
           Mit unseren Komplettlösungen digiCOM rentmaxx für die Sportartikelvermietung und digiCOM depotmaxx für die Verwaltung und Steuerung von Skidepots sind wir seit 1997 erfolgreich auf den Wintersportmärkten im In- und Ausland vertreten.
         description: | # this will include new lines to allow paragraphs
-          - Technischer Kundensupport im Innen- und Außendienst - Planung und Umsetzung von Kundenprojekten
-          - Testen firmeneigener Softwareentwicklungen
-          - Beratungsgespräche auf Messen und im Außendienst
-          - Hard-/Softwarefehler Diagnose und Behebung
+          
 
 
   - title: Bildungsweg # Title for the section
