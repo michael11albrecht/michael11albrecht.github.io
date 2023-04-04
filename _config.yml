@@ -93,10 +93,10 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Technischer Kundensupport im Innen- und Außendienst - Planung und Umsetzung von Kundenprojekten
-            - Testen firmeneigener Softwareentwicklungen
-            - Beratungsgespräche auf Messen und im Außendienst
-            - Hard-/Softwarefehler Diagnose und Behebung
+          - Technischer Kundensupport im Innen- und Außendienst - Planung und Umsetzung von Kundenprojekten
+          - Testen firmeneigener Softwareentwicklungen
+          - Beratungsgespräche auf Messen und im Außendienst
+          - Hard-/Softwarefehler Diagnose und Behebung
 
 
   - title: Bildungsweg # Title for the section
