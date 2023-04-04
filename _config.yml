@@ -77,7 +77,7 @@ content:
       - layout: left
         title: Allgeier Engineering GmbH, München
         link: https://www.allgeier-engineering.com/
-        # link_text: boringcompany.com
+        link_text: allgeier-engineering.com
         sub_title: Werkstudent Automobil-Infotainment
         caption: 2021 - 2022
         quote: >
@@ -87,7 +87,7 @@ content:
       - layout: left
         title: digiCOM IT-Solutions GmbH & Co. KG, Sonthofen
         link: https://rentmaxx.com/
-        # link_text: boringcompany.com
+        link_text: rentmaxx.com
         sub_title: Fachinformatiker für Systemintegration
         caption: 2020 - 2021
         quote: >
@@ -100,13 +100,13 @@ content:
       - layout: left
         title: digiCOM IT-Solutions GmbH & Co. KG, Sonthofen
         link: https://rentmaxx.com/
-        # link_text: boringcompany.com
+        link_text: rentmaxx.com
         sub_title: duale Ausbildung zum Fachinformatiker für Systemintegration
         caption: 2017 - 2020
         quote: >
           Mit unseren Komplettlösungen digiCOM rentmaxx für die Sportartikelvermietung und digiCOM depotmaxx für die Verwaltung und Steuerung von Skidepots sind wir seit 1997 erfolgreich auf den Wintersportmärkten im In- und Ausland vertreten.
         description: | # this will include new lines to allow paragraphs
-          
+
 
 
   - title: Bildungsweg # Title for the section
@@ -115,6 +115,7 @@ content:
       - layout: left
         title: Hochschule München
         link: https://sites.hm.edu/mucdai/angebot/geodata_science/studium.de.html
+        link_text: hm.edu
         caption: 2022 -
         sub_title: BSc Geodata Science
         quote: >
