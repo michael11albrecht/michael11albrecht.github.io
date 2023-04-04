@@ -1,39 +1,40 @@
 # Site
-repository: sproogen/resume-theme
+repository: michael11albrecht.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Michael Albrecht
+title: Geodata Science Student @Hochschule München
+email: michael.j.a@hotmail.de
+email_title: Email
+website: www.michael11albrecht.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username:
+github_username:  michael11albrecht
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# dribbble_username: 
+# facebook_username: 
+# flickr_username: 
+instagram_username: michael__albrecht
+linkedin_username: michael-albrecht-1241261b7
+# xing_username:
+# pinterest_username: 
+# youtube_username: 
+# googleplus_username:
+# orcid_username: 
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+  #icon: fas fa-globe
+  #url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,11 +47,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, ich bin Michael.
 
 content:
   - title: Projects # Title for the section
