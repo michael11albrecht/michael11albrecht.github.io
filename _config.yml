@@ -46,7 +46,7 @@ linkedin_username: michael-albrecht-1241261b7
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Über mich
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, ich bin Michael.
@@ -103,9 +103,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Hochschule München
+        link: https://sites.hm.edu/mucdai/angebot/geodata_science/studium.de.html
+        caption: 2022 -
+        sub_title: BSc Geodata Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
