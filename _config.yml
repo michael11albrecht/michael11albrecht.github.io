@@ -52,24 +52,24 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, ich bin Michael.
 
 content:
-  - title: Projekte # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Snow Base
-        link: github.com/michael11albrecht
-        # link_text: Project Website
-        additional_links:
-          - title:  michael11albrecht
-            icon: fab fa-github
-            url: github.com/michael11albrecht
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Test
-        description: | # this will include new lines to allow paragraphs
-          Test
+  #- title: Projekte # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: top-middle
+  #      title: Snow Base
+  #      link: github.com/michael11albrecht
+  #      # link_text: Project Website
+  #      additional_links:
+  #        - title:  michael11albrecht
+  #          icon: fab fa-github
+  #          url: github.com/michael11albrecht
+  #        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #        #   icon: fab fa-github
+  #        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #      quote: >
+  #        Test
+  #      description: | # this will include new lines to allow paragraphs
+  #        Test
 
   - title: Berufserfahrung # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,7 +121,7 @@ content:
         quote: >
           Du lernst sowohl Geoinformation als auch Informatik, Mathematik und KI zu verstehen und miteinander zu verknüpfen.
         description: | # this will include new lines to allow paragraphs
-          Bis voraussichtlich 2026
+            Bis voraussichtlich 2026
 
   - title: Persönliche Interessen
     layout: text
