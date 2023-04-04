@@ -10,7 +10,7 @@ name: Michael Albrecht
 title: Geodata Science Student @Hochschule München
 email: michael.j.a@hotmail.de
 email_title: Email
-website: www.michael11albrecht.github.io
+website: michael11albrecht.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, ich bin Michael.
 
 content:
-  - title: Projekte # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -75,31 +75,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Allgeier Engineering GmbH, München
+        title: Allgeier Engineering GmbH
         link: https://www.allgeier-engineering.com/
         # link_text: boringcompany.com
         sub_title: Werkstudent Automobil-Infotainment
         caption: 2021 - 2022
-        #quote: >
+        quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Software-testing
-      - layout: left
-        title: digiCOM IT-Solutions GmbH & Co. KG, Sonthofen
-        link: https://rentmaxx.com/
-        # link_text: boringcompany.com
-        sub_title: Fachinformatiker für Systemintegration
-        caption: 2020 - 2021
-        #quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            - Technischer Kundensupport im Innen- und Außendienst - Planung und Umsetzung von Kundenprojekten
-            - Testen firmeneigener Softwareentwicklungen
-            - Beratungsgespräche auf Messen und im Außendienst
-            - Hard-/Softwarefehler Diagnose und Behebung
+          Software-/Hardware Testing
 
-
-  - title: Bildungsweg # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -113,7 +99,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: Persönliche Interessen
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:

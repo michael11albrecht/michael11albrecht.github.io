@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, ich bin Michael.
 
 content:
-  - title: Projects # Title for the section
+  - title: Projekte # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -75,7 +75,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Allgeier Engineering GmbH
+        title: Allgeier Engineering GmbH, München
         link: https://www.allgeier-engineering.com/
         # link_text: boringcompany.com
         sub_title: Werkstudent Automobil-Infotainment
@@ -83,9 +83,23 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Software-/Hardware Testing
+          Software-testing
+      - layout: left
+        title: digiCOM IT-Solutions GmbH & Co. KG, Sonthofen
+        link: https://rentmaxx.com/
+        # link_text: boringcompany.com
+        sub_title: Fachinformatiker für Systemintegration
+        caption: 2020 - 2021
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            - Technischer Kundensupport im Innen- und Außendienst - Planung und Umsetzung von Kundenprojekten
+            - Testen firmeneigener Softwareentwicklungen
+            - Beratungsgespräche auf Messen und im Außendienst
+            - Hard-/Softwarefehler Diagnose und Behebung
 
-  - title: Education # Title for the section
+
+  - title: Bildungsweg # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -99,7 +113,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: Persönliche Interessen
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
